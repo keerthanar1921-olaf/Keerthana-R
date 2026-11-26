@@ -1,0 +1,6 @@
+{
+  "name": "Dynamic Disaster Communication Hub",
+  "description": "Decentralized offline-first disaster communication and emergency response coordination platform with geospatial mapping, rescue dispatch, IoT monitoring, and simulated mesh network telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
